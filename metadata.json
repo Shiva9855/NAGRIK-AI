@@ -1,0 +1,6 @@
+{
+  "name": "NagrikAI",
+  "description": "AI-powered hyperlocal civic issue reporting and management platform empowering citizens to report and resolve local infrastructure concerns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
